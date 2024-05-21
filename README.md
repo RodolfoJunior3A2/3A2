@@ -2,7 +2,7 @@
 
 # Repositório da turma 3A2
 
-Este é o repositório do aluno "Rodolfo Junior"
+# Este é o repositório do aluno "Rodolfo Junior"
 Sejam todos bem vindos
 
 
